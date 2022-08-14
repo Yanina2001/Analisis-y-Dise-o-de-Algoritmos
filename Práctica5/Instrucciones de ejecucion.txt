@@ -1,0 +1,1 @@
+Se abre mediante Anaconda en la parte de Jupyter notebook.
